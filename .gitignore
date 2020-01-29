@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-/testcase-generator
+# /testcase-generator
 
 # local env files
 .env.local
